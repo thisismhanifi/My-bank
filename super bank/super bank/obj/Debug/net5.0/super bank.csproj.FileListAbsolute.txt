@@ -1,0 +1,16 @@
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.exe
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.deps.json
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.runtimeconfig.json
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.runtimeconfig.dev.json
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.dll
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\ref\super bank.dll
+D:\C# Project\super bank\super bank\bin\Debug\net5.0\super bank.pdb
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.csproj.AssemblyReference.cache
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.AssemblyInfoInputs.cache
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.AssemblyInfo.cs
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.csproj.CoreCompileInputs.cache
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.dll
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\ref\super bank.dll
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.pdb
+D:\C# Project\super bank\super bank\obj\Debug\net5.0\super bank.genruntimeconfig.cache
